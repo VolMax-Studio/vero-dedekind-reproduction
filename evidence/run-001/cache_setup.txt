@@ -1,2 +1,5 @@
 lake update
+exit code: 0
+
 lake exe cache get
+exit code: 0
