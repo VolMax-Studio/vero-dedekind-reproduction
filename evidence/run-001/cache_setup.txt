@@ -1,0 +1,2 @@
+lake update
+lake exe cache get
